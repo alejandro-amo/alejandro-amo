@@ -4,7 +4,7 @@
 
 ## 🚀 About me
 
-I'm an IT systems administrator that evolved into a **data-focused engineer**. combining:
+I'm an IT systems administrator that evolved into a **data-focused engineer** combining:
 
 - Software development  
 - Data engineering  
